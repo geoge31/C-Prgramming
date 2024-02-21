@@ -1,2 +1,2 @@
-# C-Prgramming
+# C-Programming
 C Fundamentals
